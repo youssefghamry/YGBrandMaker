@@ -1,0 +1,416 @@
+body {
+    direction: rtl;
+    text-align: right
+}
+
+.wpcf7 {
+    direction: rtl !important
+}
+
+.intl-tel-input.allow-dropdown .flag-container,
+.intl-tel-input.separate-dial-code .flag-container,
+.numbers-list li:before,
+.title-has-icon i {
+    right: 0
+}
+
+.intl-tel-input .country-list {
+    text-align: right
+}
+
+.intl-tel-input .country-list .country-name,
+.intl-tel-input .country-list .flag-box {
+    margin-right: auto;
+    margin-left: 6px
+}
+
+.intl-tel-input .selected-flag {
+    padding: 0 8px 0 0
+}
+
+.intl-tel-input.allow-dropdown input,
+.intl-tel-input.allow-dropdown input[type=tel],
+.intl-tel-input.allow-dropdown input[type=text],
+.intl-tel-input.separate-dial-code input,
+.intl-tel-input.separate-dial-code input[type=tel],
+.intl-tel-input.separate-dial-code input[type=text] {
+    padding-right: 40px;
+    padding-left: 10px;
+    direction: ltr;
+    text-align: right
+}
+
+.intl-tel-input .selected-flag .iti-arrow {
+    right: auto;
+    left: 10px
+}
+
+i {
+    margin-left: 7px
+}
+
+.swal2-title i {
+    margin-right: 10px;
+    margin-left: 0
+}
+
+.inner-menu ul li {
+    padding-right: 40px
+}
+
+.inner-menu ul li:before {
+    margin-left: 15px;
+    right: 0
+}
+
+nav>ul>li.menu-item-has-child>a:after {
+    margin-right: 5px
+}
+
+.check-boxes-grid li,
+.check-boxes-grid span,
+.language-modal,
+.project-normal-inputs label,
+.text-right-dir {
+    text-align: right
+}
+
+.text-left-dir {
+    text-align: left
+}
+
+.nav-icon {
+    direction: ltr
+}
+
+.fixed-icons {
+    right: 15px
+}
+
+.about::before,
+.apply-job-img {
+    left: 0
+}
+
+.time-grid li {
+    margin-left: 20px
+}
+
+.time-grid li:last-of-type {
+    margin-left: auto
+}
+
+.top-links-grid .list-inline li a:after {
+    padding-right: 5px
+}
+
+.top-links-grid #qtranslate-chooser {
+    margin-right: 20px
+}
+
+.about {
+    background-position: center left
+}
+
+.call_us {
+    background-position: center right
+}
+
+.right-sec-title:before {
+    left: auto
+}
+
+.left-dots .owl-dots,
+.left-dots .owl-nav {
+    text-align: left;
+    margin-left: 10px
+}
+
+.left-dots .owl-nav {
+    text-align: left
+}
+
+.owl-carousel .owl-nav i {
+    margin-left: auto;
+    margin-right: 7px
+}
+
+.approved-images img {
+    padding-left: 30px
+}
+
+.approved-images img:last-of-type {
+    padding-left: 0
+}
+
+.circle-modal .modal-content {
+    background-position: -50px -60px
+}
+
+.phones-grid ul li {
+    padding-right: 35px
+}
+
+.phones-grid ul li i {
+    right: 0
+}
+
+.phones-grid ul li span {
+    margin-right: 10px
+}
+
+.phone-shadow {
+    padding: 10px 50px 10px 110px
+}
+
+.phone-shadow i {
+    right: 20px
+}
+
+.phone-shadow span {
+    left: 20px
+}
+
+.about h1 .wrap {
+    border-left: .1em solid #6A2186
+}
+
+.icons-list li {
+    padding-right: 30px
+}
+
+.icons-list .vc_icon_element,
+.icons-list li i {
+    right: 0
+}
+
+.check-boxes-grid li,
+.check-boxes-grid span {
+    padding-right: 40px
+}
+
+.check-boxes-grid li:before,
+.check-boxes-grid span::before {
+    right: 0
+}
+
+.check-boxes-grid li:after,
+.check-boxes-grid span::after {
+    right: 5px
+}
+
+.hosting-features .work-features-img {
+    right: 30px
+}
+
+.hosting-features {
+    padding-right: 150px
+}
+
+.commerce-div .hosting-features {
+    padding-right: 100px
+}
+
+.no-full-images.center-owl .slick-slide .ult-content-box {
+    padding-right: 70px
+}
+
+.customer-div:first-of-type,
+.customer-div:nth-of-type(6) {
+    text-align: left
+}
+
+.customer-div:nth-of-type(2),
+.customer-div:nth-of-type(7) {
+    text-align: right
+}
+
+.customer-div:first-of-type a,
+.customer-div:nth-of-type(6) a {
+    margin-right: auto;
+    margin-left: 16%
+}
+
+.customer-div:nth-of-type(2) a,
+.customer-div:nth-of-type(7) a {
+    margin-left: auto;
+    margin-right: 16%
+}
+
+.circle-list li,
+.vc_toggle_content ul li,
+.language-modal-div ul li,
+.numbers-list li {
+    padding-right: 20px
+}
+
+.circle-list li:before,
+.vc_toggle_content ul li:before,
+.language-modal-div ul li:before {
+    right: 0
+}
+
+.steps-number {
+    right: 30px
+}
+
+.work-details h3 span {
+    margin-right: 20px
+}
+
+.website-title .sec_color,
+.website-title span {
+    margin-right: 20px
+}
+
+.applications-store a {
+    padding-left: 45px;
+    padding-right: 20px
+}
+
+.applications-store .vc_icon_element-icon,
+.applications-store img {
+    left: 15px
+}
+
+.single-details-list li:not(:last-of-type) {
+    margin-left: 20px
+}
+
+.blog-side .side-text {
+    padding-right: 5px
+}
+
+.single-book-details-list li span {
+    margin-left: 5px
+}
+
+.two-btns .button-container:not(:last-of-type) {
+    margin-left: 5px
+}
+
+.file-choose-btn {
+    left: 13px
+}
+
+.file-has-btn label {
+    padding-left: 100px
+}
+
+.job-header ul li:not(:last-of-type) {
+    margin-left: 30px
+}
+
+.wpcf7 input[type=email],
+.wpcf7 input[type=tel],
+.wpcf7 input[type=url] {
+    direction: rtl
+}
+
+.title-has-icon {
+    padding-right: 10px
+}
+
+.responsive-filter span {
+    left: 20px
+}
+
+.close-filter {
+    left: auto;
+    right: 10px
+}
+
+.responsive-tabs:before {
+    left: 7px
+}
+
+.website-pg-description .sec-title {
+    text-align: right !important
+}
+
+.follow-us a {
+    margin-left: 5px
+}
+
+.vc_toggle_title {
+    padding-left: 40px
+}
+
+.vc_toggle_title i {
+    left: 4px
+}
+
+.custom-check label,
+.custom-check-global .wpcf7-list-item-label {
+    padding-right: 30px
+}
+
+.custom-check label::before,
+.custom-check-global .wpcf7-list-item-label::before {
+    margin-right: -30px
+}
+
+.custom-check label::after,
+.custom-check-global .wpcf7-list-item-label::after {
+    right: 4px
+}
+
+.server-stutus em {
+    left: 0
+}
+
+.server-stutus .vc_toggle_content p a {
+    padding-left: 120px
+}
+
+.server-stutus .vc_toggle_content ul li {
+    padding-right: 0
+}
+
+
+
+.slide_project .wpcf7-list-item {
+    padding-right: 55px;
+}
+
+
+.slide_project .wpcf7-list-item label {
+    right: 0;
+}
+
+.codedropz-upload-inner h3 {
+    font-size: 22px;
+}
+
+
+.dnd-upload-status .dnd-upload-details .name span {
+    padding-left: 10px;
+        padding-right: 0;
+
+}
+@media only screen and (max-width:992px) {
+    .time-grid li {
+        margin-left: 10px
+    }
+
+    .customer-div:first-of-type,
+    .customer-div:nth-of-type(2),
+    .customer-div:nth-of-type(6),
+    .customer-div:nth-of-type(7) {
+        text-align: center
+    }
+
+    .customer-div:first-of-type a,
+    .customer-div:nth-of-type(2) a,
+    .customer-div:nth-of-type(6) a,
+    .customer-div:nth-of-type(7) a {
+        margin-right: auto;
+        margin-left: auto
+    }
+}
+
+@media only screen and (max-width:767px) {
+    .phone-shadow {
+        padding-left: 10px
+    }
+}
